@@ -77,7 +77,7 @@ I don’t code every day anymore, but I still think in systems, logic, and lever
 
 * 10+ years building on the internet
 * Multiple companies built under Saubhagya Group
-* Teams grown from solo to 25+ people
+* Teams grown from solo to 55+ people
 
 ## Now
 
