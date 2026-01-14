@@ -6,7 +6,7 @@ Founder & CEO at **Saubhagya Group** | ex-developer turned business builder.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Chhetri-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sagarchhetriwom/)
 [![Instagram](https://img.shields.io/badge/Instagram-sagarchhetri.bird-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/sagarchhetri.bird/)
 
-
+---
 
 ## My story
 
@@ -18,7 +18,7 @@ So I slowly stepped away from pure development and moved into digital marketing,
 
 Today, I focus on creating companies, building teams, and designing systems that scale.
 
-
+---
 
 ## What I do now
 
@@ -28,7 +28,7 @@ Today, I focus on creating companies, building teams, and designing systems that
 * Brand positioning & content strategy
 * Consulting for founders who want real results
 
-
+---
 
 ## Saubhagya Group ventures
 
@@ -40,7 +40,7 @@ Today, I focus on creating companies, building teams, and designing systems that
 
 More companies are being built.
 
-
+---
 
 ## Tools & experience
 
@@ -48,7 +48,7 @@ HTML , CSS , JavaScript , Laravel , React , SQL , MySQL , Git , GitHub , Flutter
 
 I don’t code daily anymore, but I still think like an engineer.
 
-
+---
 
 ## What I share
 
@@ -57,7 +57,7 @@ I don’t code daily anymore, but I still think like an engineer.
 * Systems over motivation
 * Execution over ideas
 
-
+---
 
 ## Connect with me
 
@@ -66,6 +66,6 @@ I don’t code daily anymore, but I still think like an engineer.
 * LinkedIn , [https://www.linkedin.com/in/sagarchhetriwom/](https://www.linkedin.com/in/sagarchhetriwom/)
 * Instagram , [https://www.instagram.com/sagarchhetri.bird/](https://www.instagram.com/sagarchhetri.bird/)
 
-
+---
 
 ⚡ Belief I live by: Ideas are common. Execution is rare.
