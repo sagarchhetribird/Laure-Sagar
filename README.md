@@ -4,7 +4,7 @@ Founder & CEO at **Saubhagya Group** | ex-developer turned business builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Chhetri-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sagarchhetriwom/)
 [![Instagram](https://img.shields.io/badge/Instagram-sagarchhetri.bird-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/sagarchhetri.bird/)
-[![Website](https://img.shields.io/badge/Website-sagar.business-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://sagar.business)
+[![Website](https://img.shields.io/badge/Website-sagar.business-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://sagar.business)
 
 <br/>
 
