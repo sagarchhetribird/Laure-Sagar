@@ -2,7 +2,7 @@
 
 Founder & CEO at **Saubhagya Group** | ex-developer turned business builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Chhetri-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sagarchhetriwom/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Chhetri-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sagarchhetribird/)
 [![Instagram](https://img.shields.io/badge/Instagram-sagarchhetri.bird-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/sagarchhetri.bird/)
 [![Website](https://img.shields.io/badge/Website-sagar.business-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://sagar.business)
 
@@ -69,7 +69,7 @@ I don’t code every day anymore, but I still think in systems, logic, and lever
 
 * Website , [https://sagar.business](https://sagar.business)
 * Email , [sagar@saubhagyagroup.com](mailto:sagar@saubhagyagroup.com)
-* LinkedIn , [https://www.linkedin.com/in/sagarchhetriwom/](https://www.linkedin.com/in/sagarchhetriwom/)
+* LinkedIn , [https://www.linkedin.com/in/sagarchhetribird/](https://www.linkedin.com/in/sagarchhetribird/)
 * Instagram , [https://www.instagram.com/sagarchhetri.bird/](https://www.instagram.com/sagarchhetri.bird/)
 
 <br/>
