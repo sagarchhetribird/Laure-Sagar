@@ -1,93 +1,87 @@
-### Hi there 👋, I'm Sagar Chhetri
+### Hi, I'm Sagar Chhetri
 
-Founder & CEO at **Saubhagya Group** | ex-developer turned business builder
+**Co-Founder & CEO, [Saubhagya Group](https://saubhagyagroup.com)** · Kathmandu, Nepal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Chhetri-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sagarchhetribird/)
-[![Instagram](https://img.shields.io/badge/Instagram-sagarchhetri.bird-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/sagarchhetri.bird/)
-[![Website](https://img.shields.io/badge/Website-sagar.business-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://sagar.business)
+Building companies, systems and communities for Nepal’s next decade.
 
-<br/>
-
-## My story
-
-I didn’t start as a founder.
-
-I started as a guy writing code late at night, building websites, fixing bugs, and believing that shipping features was the whole game.
-
-With time, reality hit.
-
-Code was never the product. **People, systems, growth, and execution were.**
-
-That’s when my focus shifted.
-
-I slowly moved away from pure development and into digital marketing, strategy, and business building. Not because I failed at coding, but because I wanted to build things that lived beyond codebases.
-
-Today, I spend my time creating companies, building teams, and designing systems that scale.
+[![Website](https://img.shields.io/badge/Website-sagar.business-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sagar.business)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Chhetri-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagarchhetribird/)
+[![Instagram](https://img.shields.io/badge/Instagram-sagar.brandbird-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sagar.brandbird/)
+[![Facebook](https://img.shields.io/badge/Facebook-sagarchhetri.bird-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sagarchhetri.bird/)
 
 <br/>
 
-## What I do now
+## About
 
-* Founder & CEO , **Saubhagya Group**
-* Business strategy & execution
-* Growth systems & performance marketing
-* Brand positioning & content strategy
-* Consulting for founders who want clarity and results
+I’m Sagar Chhetri, co-founder and CEO of Saubhagya Group. With co-founders, operators and a growing team, we build businesses and platforms across construction, technology, education, marketing, hospitality and community development.
+
+**Focus areas:** built environment · technology · education · creative & media · hospitality · community
 
 <br/>
 
-## Saubhagya Group ventures
+## Journey
 
-* **Saubhagya Construction** , construction & renovation
-* **BrandBird** , marketing & growth agency
-* **YourHostel** , hostel discovery platform
-* **Nova Productions** , media & content production
-* **SSIT Institute** , tech & skill education
+| Chapter | What happened |
+| --- | --- |
+| **2017** | Started as a Tech Mentor at Prestige Institute — learning that technology only matters when people can use it |
+| **2019** | Founded **101Infotech**, which later evolved into **Brand Bird** under Saubhagya Group |
+| **Reset** | Moved into marketing at WoM, later became CEO, led 35+ people, then stepped back as silent partner & advisor |
+| **Turning point** | Joined **Saubhagya Ghar** as CEO — the foundation for a wider group |
+| **Today** | Saubhagya Group: 55+ people, multiple ventures, shared operating systems |
 
-More ventures are being built.
-
-<br/>
-
-## Tools & mindset
-
-HTML , CSS , JavaScript , Laravel , React , SQL , Git , WordPress , Meta Ads , Analytics , Figma
-
-I don’t code every day anymore, but I still think in systems, logic, and leverage.
+Full story → [sagar.business/about](https://sagar.business/about)
 
 <br/>
 
-## What I share
+## Saubhagya Group ecosystem
 
-* Founder lessons, unfiltered
-* Marketing that actually converts
-* Systems over motivation
-* Execution over ideas
+One group. Multiple ventures. Shared infrastructure.
+
+### Operating businesses
+- **[Saubhagya Ghar](https://saubhagyaghar.com.np)** — renovation & interiors
+- **[Saubhagya Construction](https://saubhagyaconstruction.com)** — construction
+- **[Brand Bird](https://brandbird.com.np)** — creative & digital
+- **[SSIT Institute](https://ai.ssit.com.np)** — education
+
+### Platforms & startups
+- **Your Hostel** — hospitality technology
+- **The Hive Fusion** — events technology
+- **Nova Production** — media production
+- **Founder Stage** — startup ecosystem
+- **Fractional Investment** — investment technology
+
+### Emerging
+- Infra Stories by Saubhagya · Saubhagya Interiors · Saubhagya Sports · Saubhagya Foundation
+
+Explore → [sagar.business](https://sagar.business/#ecosystem)
 
 <br/>
 
-## Connect with me
+## How we build
 
-* Website , [https://sagar.business](https://sagar.business)
-* Email , [sagar@saubhagyagroup.com](mailto:sagar@saubhagyagroup.com)
-* LinkedIn , [https://www.linkedin.com/in/sagarchhetribird/](https://www.linkedin.com/in/sagarchhetribird/)
-* Instagram , [https://www.instagram.com/sagarchhetri.bird/](https://www.instagram.com/sagarchhetri.bird/)
+1. **Identify** — fragmented or underserved markets where a practical company can create durable value  
+2. **Build** — a clear service or product that earns trust  
+3. **Operate** — team, processes and technology that deliver consistently  
+4. **Distribute** — marketing systems that find and serve customers  
+5. **Reinvest** — knowledge, talent, media and infrastructure into the next venture  
 
 <br/>
-
-## Numbers, quietly earned
-
-* 10+ years building on the internet
-* Multiple companies built under Saubhagya Group
-* Teams grown from solo to 55+ people
 
 ## Now
 
-* Scaling Saubhagya Group operations and leadership systems
-* Strengthening BrandBird as a performance driven growth partner
-* Building long term systems for content, sales, and execution
+- Scaling Saubhagya Group operations and leadership systems
+- Growing Brand Bird as a creative and digital company
+- Shipping Your Hostel and The Hive Fusion
+- Writing field notes from building in public — [Ideas](https://sagar.business/ideas)
 
-## Personal philosophy
+<br/>
+
+## Connect
+
+- Website — [sagar.business](https://sagar.business)
+- Collaborate — [sagar.business/collaborate](https://sagar.business/collaborate)
+- Email — [sagar@saubhagyagroup.com](mailto:sagar@saubhagyagroup.com)
+- WhatsApp — [+977 9821812699](https://wa.me/9779821812699)
+- LinkedIn · [Facebook](https://www.facebook.com/sagarchhetri.bird/) · [Instagram](https://www.instagram.com/sagar.brandbird/)
 
 > Build systems. Empower people. Execute daily.
-
-> Ideas are common. Execution is rare.
