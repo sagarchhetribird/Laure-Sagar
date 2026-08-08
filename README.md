@@ -42,7 +42,7 @@ One group. Multiple ventures. Shared infrastructure.
 ### Operating businesses
 - **[Saubhagya Ghar](https://saubhagyaghar.com.np)** — renovation & interiors
 - **[Saubhagya Construction](https://saubhagyaconstruction.com)** — construction
-- **[Brand Bird](https://brandbird.com.np)** — creative & digital
+- **[Brand Bird](https://www.linkedin.com/company/brandbirdagency/)** — creative & digital
 - **[SSIT Institute](https://ai.ssit.com.np)** — education
 
 ### Platforms & startups
