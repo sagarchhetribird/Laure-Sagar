@@ -11,6 +11,7 @@ Official profile: [Sagar Chhetri](https://sagar.business/about) · [Press kit](h
 [![Instagram](https://img.shields.io/badge/Instagram-sagarchhetri.bird-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sagarchhetri.bird/)
 [![Facebook](https://img.shields.io/badge/Facebook-sagarchhetri.bird-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sagarchhetri.bird/)
 [![TikTok](https://img.shields.io/badge/TikTok-sagarchhetri.pro-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sagarchhetri.pro)
+[![YouTube](https://img.shields.io/badge/YouTube-Sagar%20Chhetri%20Bird-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sagarchhetribird)
 
 <br/>
 
@@ -87,5 +88,6 @@ Explore → [sagar.business](https://sagar.business/#ecosystem)
 - Email — [sagar@saubhagyagroup.com](mailto:sagar@saubhagyagroup.com)
 - WhatsApp — [+977 9821812699](https://wa.me/9779821812699)
 - LinkedIn · [Facebook](https://www.facebook.com/sagarchhetri.bird/) · [Instagram](https://www.instagram.com/sagarchhetri.bird/) · [TikTok](https://www.tiktok.com/@sagarchhetri.pro)
+- YouTube — [Sagar Chhetri Bird](https://www.youtube.com/@sagarchhetribird)
 
 > Build systems. Empower people. Execute daily.
