@@ -82,6 +82,7 @@ Explore → [sagar.business](https://sagar.business/#ecosystem)
 
 - Website — [sagar.business](https://sagar.business)
 - Collaborate — [sagar.business/collaborate](https://sagar.business/collaborate)
+- Speaker profile — [Sessionize](https://sessionize.com/sagar-chhetri/)
 - Email — [sagar@saubhagyagroup.com](mailto:sagar@saubhagyagroup.com)
 - WhatsApp — [+977 9821812699](https://wa.me/9779821812699)
 - LinkedIn · [Facebook](https://www.facebook.com/sagarchhetri.bird/) · [Instagram](https://www.instagram.com/sagar.brandbird/)
