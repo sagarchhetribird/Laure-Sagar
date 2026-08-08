@@ -4,6 +4,8 @@
 
 Building companies, systems and communities for Nepal’s next decade.
 
+Official profile: [Sagar Chhetri](https://sagar.business/about) · [Press kit](https://sagar.business/press)
+
 [![Website](https://img.shields.io/badge/Website-sagar.business-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sagar.business)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Chhetri-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagarchhetribird/)
 [![Instagram](https://img.shields.io/badge/Instagram-sagar.brandbird-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sagar.brandbird/)
